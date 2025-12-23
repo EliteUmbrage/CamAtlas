@@ -5,4 +5,4 @@
 
 -prompt_toolkit
 
--We reccomend you have a web browser such as firefox downloaded on your machine as well. 
+-We reccomend you have a web browser such as firefox downloaded on your machine as well. There will also be a script that automatically checks and downloads all of these. It CamAtlas/crawler/requirmentsdownload.py
