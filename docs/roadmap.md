@@ -5,7 +5,7 @@ It helps contributors understand the project goals, priorities, and workflow.
 
 ---
 
-## Phase 1: Foundation (Done or In Progress)
+## Phase 1: Foundation 
 - [x] Create GitHub repo
 - [x] Add README.md
 - [x] Add ethics.md (`docs/ethics.md`)
@@ -31,14 +31,14 @@ It helps contributors understand the project goals, priorities, and workflow.
 
 ---
 
-## Phase 4: Backend / API (Optional)
+## Phase 4: Backend / API 
 - [ ] Build lightweight API using **FastAPI** or **Flask**
 - [ ] Allow querying of the database: search by location, type, country
 - [ ] Implement basic pagination
 
 ---
 
-## Phase 5: Frontend / Visualization (Optional)
+## Phase 5: Frontend / Visualization 
 - [ ] Add map-based visualization (e.g., Leaflet.js or Google Maps)
 - [ ] Display camera markers with clickable preview or link
 - [ ] Integrate search/filter functionality
@@ -59,3 +59,5 @@ It helps contributors understand the project goals, priorities, and workflow.
 - [ ] Accept pull requests safely and review for ethical compliance
 
 ---
+
+Roadmap was sourced using ChatGPT
