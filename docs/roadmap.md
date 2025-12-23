@@ -9,7 +9,7 @@ It helps contributors understand the project goals, priorities, and workflow.
 - [x] Create GitHub repo
 - [x] Add README.md
 - [x] Add ethics.md (`docs/ethics.md`)
-- [x] Add project logo (`assets/camatlas-logo.png`)
+- [x] Add project logo (`assets/images/camatlas-logo.png`)
 - [x] Create folder structure (`assets`, `crawler`, `data`, `backend`, `docs`)
 - [x] Add LICENSE
 
