@@ -1,1 +1,269 @@
+[
+  {
+    "name": "NYC Traffic Cam – 5th Ave",
+    "url": "https://www.nyc.gov/assets/nyc-dots/webcams/5thave.html",
+    "type": "traffic",
+    "country": "US"
+  },
+  {
+    "name": "Times Square Live Cam",
+    "url": "https://www.earthcam.com/usa/newyork/timessquare/",
+    "type": "tourism",
+    "country": "US"
+  },
+  {
+    "name": "Yellowstone National Park Cam",
+    "url": "https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm",
+    "type": "tourism",
+    "country": "US"
+  },
+  {
+    "name": "Tokyo Tower Live Cam",
+    "url": "https://www.japan.travel/en/uk/cam/tokyo-tower/",
+    "type": "tourism",
+    "country": "JP"
+  },
+  {
+    "name": "Peregrine Falcon Cam – U of Minnesota",
+    "url": "https://www.mywebcams.com/peregrinefalcon",
+    "type": "wildlife",
+    "country": "US"
+  },
+  {
+    "name": "Berlin TV Tower Cam",
+    "url": "https://www.worldcam.de/en/webcam/berlin-tv-tower",
+    "type": "tourism",
+    "country": "DE"
+  },
+  {
+    "name": "London Eye Cam",
+    "url": "https://www.londoncam.co.uk/",
+    "type": "tourism",
+    "country": "GB"
+  },
+  {
+    "name": "Sydney Opera House Live Cam",
+    "url": "https://www.sydneyoperahouse.com/webcam",
+    "type": "tourism",
+    "country": "AU"
+  },
+  {
+    "name": "Niagara Falls Cam",
+    "url": "https://www.niagarafallslive.com/",
+    "type": "tourism",
+    "country": "CA"
+  },
+  {
+    "name": "Eiffel Tower Live Cam",
+    "url": "https://www.toureiffel.paris/en/webcam",
+    "type": "tourism",
+    "country": "FR"
+  },
+  {
+    "name": "Grand Canyon Cam",
+    "url": "https://www.nps.gov/grca/learn/photosmultimedia/webcams.htm",
+    "type": "tourism",
+    "country": "US"
+  },
+  {
+    "name": "San Francisco Bay Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/usa/california/san-francisco.html",
+    "type": "tourism",
+    "country": "US"
+  },
+  {
+    "name": "Vancouver Waterfront Cam",
+    "url": "https://www.tourismvancouver.com/webcams/",
+    "type": "tourism",
+    "country": "CA"
+  },
+  {
+    "name": "Amsterdam Central Station Cam",
+    "url": "https://www.amsterdam.nl/en/webcam/",
+    "type": "citycams",
+    "country": "NL"
+  },
+  {
+    "name": "Rio de Janeiro Copacabana Cam",
+    "url": "https://www.riocam.com/copacabana",
+    "type": "tourism",
+    "country": "BR"
+  },
+  {
+    "name": "Hong Kong Victoria Harbour Cam",
+    "url": "https://www.earthtv.com/Live-Cam/Hong-Kong-Victoria-Harbour/",
+    "type": "tourism",
+    "country": "HK"
+  },
+  {
+    "name": "Moscow Red Square Cam",
+    "url": "https://www.moscowlivecam.com/red-square",
+    "type": "tourism",
+    "country": "RU"
+  },
+  {
+    "name": "Dubai Marina Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/united-arab-emirates/dubai/dubai-marina.html",
+    "type": "tourism",
+    "country": "AE"
+  },
+  {
+    "name": "Cape Town Waterfront Cam",
+    "url": "https://www.capetown.travel/webcams/",
+    "type": "tourism",
+    "country": "ZA"
+  },
+  {
+    "name": "Iceland Northern Lights Cam",
+    "url": "https://www.nordurljos.is/webcams/",
+    "type": "wildlife",
+    "country": "IS"
+  },
+  {
+    "name": "San Diego Harbor Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/usa/california/san-diego-harbor.html",
+    "type": "tourism",
+    "country": "US"
+  },
+  {
+    "name": "London Tower Bridge Cam",
+    "url": "https://www.webcamtaxi.com/en/england/london/tower-bridge.html",
+    "type": "citycams",
+    "country": "GB"
+  },
+  {
+    "name": "Paris Sacré-Cœur Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/france/ile-de-france/paris-sacre-coeur.html",
+    "type": "tourism",
+    "country": "FR"
+  },
+  {
+    "name": "Berlin Brandenburg Gate Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/germany/berlin/brandenburg-gate.html",
+    "type": "tourism",
+    "country": "DE"
+  },
+  {
+    "name": "Tokyo Shibuya Crossing Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/japan/tokyo/shibuya-crossing.html",
+    "type": "citycams",
+    "country": "JP"
+  },
+  {
+    "name": "Venice Grand Canal Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/italy/veneto/venice-grand-canal.html",
+    "type": "tourism",
+    "country": "IT"
+  },
+  {
+    "name": "Madrid Puerta del Sol Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/spain/madrid/puerta-del-sol.html",
+    "type": "citycams",
+    "country": "ES"
+  },
+  {
+    "name": "Athens Acropolis Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/greece/athens/acropolis.html",
+    "type": "tourism",
+    "country": "GR"
+  },
+  {
+    "name": "Lisbon Comercio Square Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/portugal/lisbon/comercio-square.html",
+    "type": "citycams",
+    "country": "PT"
+  },
+  {
+    "name": "Stockholm Gamla Stan Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/sweden/stockholm/gamla-stan.html",
+    "type": "tourism",
+    "country": "SE"
+  },
+  {
+    "name": "Oslo City Hall Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/norway/oslo/city-hall.html",
+    "type": "citycams",
+    "country": "NO"
+  },
+  {
+    "name": "Reykjavik Harbor Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/iceland/reykjavik/harbor.html",
+    "type": "tourism",
+    "country": "IS"
+  },
+  {
+    "name": "Zurich Bahnhofstrasse Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/switzerland/zurich/bahnhofstrasse.html",
+    "type": "citycams",
+    "country": "CH"
+  },
+  {
+    "name": "Prague Old Town Square Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/prague/old-town-square.html",
+    "type": "tourism",
+    "country": "CZ"
+  },
+  {
+    "name": "Budapest Parliament Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/hungary/budapest/parliament.html",
+    "type": "citycams",
+    "country": "HU"
+  },
+  {
+    "name": "Warsaw Palace of Culture Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/poland/warsaw/palace-of-culture.html",
+    "type": "citycams",
+    "country": "PL"
+  },
+  {
+    "name": "Krakow Main Square Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/poland/krakow/main-square.html",
+    "type": "tourism",
+    "country": "PL"
+  },
+  {
+    "name": "Helsinki Market Square Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/finland/helsinki/market-square.html",
+    "type": "citycams",
+    "country": "FI"
+  },
+  {
+    "name": "Copenhagen Nyhavn Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/denmark/copenhagen/nyhavn.html",
+    "type": "tourism",
+    "country": "DK"
+  },
+  {
+    "name": "Osaka Dotonbori Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/japan/osaka/dotonbori.html",
+    "type": "citycams",
+    "country": "JP"
+  },
+  {
+    "name": "Seoul Gwanghwamun Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/south-korea/seoul/gwanghwamun.html",
+    "type": "citycams",
+    "country": "KR"
+  },
+  {
+    "name": "Beijing Tiananmen Square Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/china/beijing/tiananmen-square.html",
+    "type": "tourism",
+    "country": "CN"
+  },
+  {
+    "name": "Shanghai Bund Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/china/shanghai/bund.html",
+    "type": "citycams",
+    "country": "CN"
+  },
+  {
+    "name": "Bangkok Chao Phraya River Cam",
+    "url": "https://www.skylinewebcams.com/en/webcam/thailand/bangkok/chao-phraya.html",
+    "type": "tourism",
+    "country": "TH"
+  },
+  {
+    "name": "Singapore Marina Bay Sands Cam",
+    "url": "ht
 
